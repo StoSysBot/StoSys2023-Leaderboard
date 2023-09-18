@@ -6,8 +6,8 @@
 0	group18	1694
 0	group08	1736
 0	group16	1743
+0	group20	1756
 0	group13	1777
-0	group20	1789
 0	group14	2289
 0	group15	2515
 0	group12	3480
