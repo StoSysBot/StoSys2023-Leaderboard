@@ -6,7 +6,7 @@
 0	group08	1866
 0	group22	1908
 0	group23	1951
-0	group20	2014
+0	group20	1968
 0	group14	2189
 0	group15	2497
 0	group12	3480
