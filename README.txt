@@ -15,6 +15,6 @@
 0	group05	1778
 0	group19	1829
 0	group02	2018
-0	group14	2289
 0	group15	2515
 0	group03	3882
+0	group14	4114
