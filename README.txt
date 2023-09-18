@@ -9,6 +9,7 @@
 0	group20	1756
 0	group13	1777
 0	group27	1991
+0	group02	2018
 0	group14	2289
 0	group15	2515
 0	group12	3480
