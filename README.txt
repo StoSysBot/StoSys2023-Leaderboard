@@ -3,6 +3,7 @@
 0	group25	1484
 0	group23	1524
 0	group24	1548
+0	group13	1579
 0	group04	1585
 0	group22	1613
 0	group12	1639
@@ -12,7 +13,6 @@
 0	group08	1736
 0	group16	1743
 0	group20	1756
-0	group13	1777
 0	group19	1829
 0	group02	2018
 0	group15	2515
