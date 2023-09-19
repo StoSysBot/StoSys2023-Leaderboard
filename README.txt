@@ -2,7 +2,7 @@
 0	group25	1401
 0	group05	1477
 0	group23	1524
-0	group24	1548
+0	group24	1564
 0	group13	1579
 0	group04	1585
 0	group22	1613
