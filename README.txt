@@ -15,7 +15,7 @@
 0	group08	1736
 0	group16	1743
 0	group20	1756
-0	group01	1817
+0	group01	1806
 0	group19	1829
 0	group15	2515
 0	group03	3882
