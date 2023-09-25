@@ -6,7 +6,6 @@
 0	group24	1564
 0	group04	1585
 0	group22	1613
-0	group27	1649
 0	group11	1675
 0	group18	1694
 0	group10	1694
@@ -21,3 +20,4 @@
 0	group25	360746
 0	group12	419006
 0	group23	498904
+0	group27	1147008
