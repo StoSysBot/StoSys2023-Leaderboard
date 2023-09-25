@@ -1,7 +1,7 @@
 	Group	Total Time (ms)
 0	group20	118731
+0	group24	324676
 0	group16	335432
-0	group24	336184
 0	group25	364938
 0	group12	447714
 0	group23	498904
