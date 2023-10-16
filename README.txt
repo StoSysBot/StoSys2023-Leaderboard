@@ -3,3 +3,4 @@
 0	group25		4552
 0	group27		9102
 0	group14		12838
+0	group10		18609
