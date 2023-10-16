@@ -2,5 +2,5 @@
 0	group12		3283
 0	group25		4552
 0	group27		9102
-0	group14		12697
+0	group14		12514
 0	group10		18609
